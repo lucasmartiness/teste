@@ -3,4 +3,6 @@ function love.draw()
 	love.graphics.print("Oi!", 400, 400)
 	love.graphics.print("Oi!", 400,450)
 	love.graphics.print("Oi!", 400, 500)
+	love.graphics.print("Oi!", 600, 500)
+
 end
